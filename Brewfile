@@ -1,11 +1,16 @@
 tap "homebrew/cask"
 brew "mas-cli/tap/mas"
+
+brew "nvm"
+
 cask "lastpass"
 cask "iterm2"
 cask "visual-studio-code"
 cask "boostnote"
 cask "dashlane"
 cask "notion"
+cask "witch"
+cask "balenaetcher"
 
 mas "Greenshot", id: 1103915944
 mas "Magnet", id: 441258766
