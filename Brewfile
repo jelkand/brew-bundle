@@ -10,7 +10,7 @@ cask "boostnote"
 cask "dashlane"
 cask "notion"
 cask "witch"
-cask "balenaetcher"
+cask "minikube"
 
 mas "Greenshot", id: 1103915944
 mas "Magnet", id: 441258766
