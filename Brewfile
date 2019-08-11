@@ -11,6 +11,7 @@ cask "dashlane"
 cask "notion"
 cask "witch"
 cask "minikube"
+cask "virtualbox"
 
 mas "Greenshot", id: 1103915944
 mas "Magnet", id: 441258766
