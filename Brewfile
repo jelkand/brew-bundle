@@ -1,8 +1,10 @@
 tap "homebrew/cask"
 brew "mas-cli/tap/mas"
 
+brew "docker-compose"
 brew "nvm"
 
+cask "docker"
 cask "lastpass"
 cask "iterm2"
 cask "visual-studio-code"
