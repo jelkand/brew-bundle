@@ -1,7 +1,6 @@
 tap "homebrew/cask"
 brew "mas-cli/tap/mas"
 
-brew "docker-compose"
 brew "nvm"
 
 cask "docker"
